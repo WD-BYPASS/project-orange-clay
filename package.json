@@ -1,7 +1,7 @@
 {
-  "name": "KCSgate Combat Kit",
+  "name": "Project Orange Clay",
   "version": "1.0.0",
-  "description": "The combat kit for KCSgate",
+  "description": "Info on a mean orange man.",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
