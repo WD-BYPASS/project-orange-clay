@@ -18,65 +18,65 @@ Trump has pleaded not guilty to all charges against him. Neither the indictments
 ### **Exexutive Orders:** {#executive-orders}
 ::: details
 Implementing The United States–Japan Agreement
-Presidential Actions, Executive Orders September 4, 2025
+Presidential Actions, Executive Orders September 4, 2025 -
 Making Federal Architecture Beautiful Again
-Presidential Actions, Executive Orders August 28, 2025
+Presidential Actions, Executive Orders August 28, 2025 -
 Further Exclusions from the Federal Labor-Management Relations Program
-Presidential Actions, Executive Orders August 28, 2025
+Presidential Actions, Executive Orders August 28, 2025 -
 Taking Steps to End Cashless Bail to Protect Americans
-Presidential Actions, Executive Orders August 25, 2025
+Presidential Actions, Executive Orders August 25, 2025 -
 Measures To End Cashless Bail And Enforce The Law In The District Of Columbia
-Presidential Actions, Executive Orders August 25, 2025
+Presidential Actions, Executive Orders August 25, 2025 -
 Prosecuting Burning of The American Flag
-Presidential Actions, Executive Orders August 25, 2025
+Presidential Actions, Executive Orders August 25, 2025 -
 Additional Measures to Address the Crime Emergency in the District of Columbia
-Presidential Actions, Executive Orders August 25, 2025
+Presidential Actions, Executive Orders August 25, 2025 -
 Improving Our Nation Through Better Design
-Presidential Actions, Executive Orders August 21, 2025
+Presidential Actions, Executive Orders August 21, 2025 -
 Revocation of Executive Order on Competition
-Presidential Actions, Executive Orders August 13, 2025
+Presidential Actions, Executive Orders August 13, 2025 -
 Enabling Competition in the Commercial Space Industry
-Presidential Actions, Executive Orders August 13, 2025
+Presidential Actions, Executive Orders August 13, 2025 -
 Ensuring American Pharmaceutical Supply Chain Resilience by Filling the Strategic Active Pharmaceutical Ingredients Reserve
-Presidential Actions, Executive Orders August 13, 2025
+Presidential Actions, Executive Orders August 13, 2025 -
 Further Modifying Reciprocal Tariff Rates to Reflect Ongoing Discussions with The People’s Republic of China
-Presidential Actions, Executive Orders August 11, 2025
+Presidential Actions, Executive Orders August 11, 2025 -
 Declaring a Crime Emergency in the District of Columbia
-Presidential Actions, Executive Orders August 11, 2025
+Presidential Actions, Executive Orders August 11, 2025 -
 Democratizing Access to Alternative Assets for 401(K) Investors
-Presidential Actions, Executive Orders August 7, 2025
+Presidential Actions, Executive Orders August 7, 2025 -
 Guaranteeing Fair Banking For All Americans
-Presidential Actions, Executive Orders August 7, 2025
+Presidential Actions, Executive Orders August 7, 2025 -
 Improving Oversight of Federal Grantmaking
-Presidential Actions, Executive Orders August 7, 2025
+Presidential Actions, Executive Orders August 7, 2025 -
 Addressing Threats to The United States by the Government of the Russian Federation
-Presidential Actions, Executive Orders August 6, 2025
+Presidential Actions, Executive Orders August 6, 2025 -
 Establishing the White House Task Force on the 2028 Summer Olympics
-Presidential Actions, Executive Orders August 5, 2025
+Presidential Actions, Executive Orders August 5, 2025 -
 Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border
-Presidential Actions, Executive Orders July 31, 2025
+Presidential Actions, Executive Orders July 31, 2025 -
 Further Modifying the Reciprocal Tariff Rates
-Presidential Actions, Executive Orders July 31, 2025
+Presidential Actions, Executive Orders July 31, 2025 -
 President’s Council on Sports, Fitness, and Nutrition, and the Reesetablishment of the Presidential Fitness Test
-Presidential Actions, Executive Orders July 31, 2025
+Presidential Actions, Executive Orders July 31, 2025 -
 Suspending Duty-Free De Minimis Treatment for All Countries
-Presidential Actions, Executive Orders July 30, 2025
+Presidential Actions, Executive Orders July 30, 2025 -
 Addressing Threats to The United States by the Government of Brazil
-Presidential Actions, Executive Orders July 30, 2025
+Presidential Actions, Executive Orders July 30, 2025 -
 Saving College Sports
-Presidential Actions, Executive Orders July 24, 2025
+Presidential Actions, Executive Orders July 24, 2025 -
 Ending Crime and Disorder on America’s Streets
-Presidential Actions, Executive Orders July 24, 2025
+Presidential Actions, Executive Orders July 24, 2025 -
 Promoting The Export of the American AI Technology Stack
-Presidential Actions, Executive Orders July 23, 2025
+Presidential Actions, Executive Orders July 23, 2025 -
 Accelerating Federal Permitting of Data Center Infrastructure
-Presidential Actions, Executive Orders July 23, 2025
+Presidential Actions, Executive Orders July 23, 2025 -
 Preventing Woke AI in the Federal Government
-Presidential Actions, Executive Orders July 23, 2025
+Presidential Actions, Executive Orders July 23, 2025 -
 Creating Schedule G in the Excepted Service
-Presidential Actions, Executive Orders July 17, 2025
+Presidential Actions, Executive Orders July 17, 2025 -
 Extending the Modification of the Reciprocal Tariff Rates
-Presidential Actions, Executive Orders July 7, 2025
+Presidential Actions, Executive Orders July 7, 2025 -
 
 :::
 ## **Sources:** {#sources:}
