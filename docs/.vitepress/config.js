@@ -28,4 +28,7 @@ export default {
               provider: 'local'
         },
     },
+    head: [
+        ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    ],
 };
