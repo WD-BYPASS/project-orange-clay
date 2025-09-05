@@ -1,9 +1,9 @@
 export default {
-    title: "KCSgate Combat Data",
-    description: "The info to deal with KCSgate.",
-    base: "/KCSgate-Combat-Data/",
+    title: "Project Orange Clay",
+    description: "Info about a very mean orange guy.",
+    base: "/Project-Orange-Clay/",
     themeConfig: {
-        siteTitle: "KCSgate Combat Data",
+        siteTitle: "Project Orange Clay",
         footer: {
             message: "Released under the CC BY-NC-ND 4.0 License.",
             copyright: "Copyright © 2025-present WD_Bypass",
