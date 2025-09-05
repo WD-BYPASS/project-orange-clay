@@ -1,7 +1,7 @@
 export default {
     title: "Project Orange Clay",
     description: "Info about a very mean orange guy.",
-    base: "/Project-Orange-Clay/",
+    base: "/project-orange-clay/",
     themeConfig: {
         siteTitle: "Project Orange Clay",
         footer: {
